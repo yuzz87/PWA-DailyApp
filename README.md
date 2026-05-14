@@ -62,15 +62,15 @@
 
 ### バックエンド
 
-| 技術                | バージョン | 用途                                     |
-| ------------------- | ---------- | ---------------------------------------- |
-| Ruby on Rails       | 8.1.3      | API サーバー（API-only モード）          |
-| PostgreSQL          | -          | データベース                             |
-| Devise              | -          | ユーザー認証基盤                         |
-| devise-jwt          | -          | JWT トークン発行・失効                   |
-| rack-cors           | -          | CORS 設定                                |
-| Tesseract OCR       | -          | コーヒーパッケージ画像のテキスト読み取り |
-| libvips / ruby-vips | -          | 画像前処理（OCR 精度向上）               |
+| 技術                | 用途                                     |
+| ------------------- | ---------------------------------------- |
+| Ruby on Rails       | API サーバー（API-only モード）          |
+| PostgreSQL          | データベース                             |
+| Devise              | ユーザー認証基盤                         |
+| devise-jwt          | JWT トークン発行・失効                   |
+| rack-cors           | CORS 設定                                |
+| Tesseract OCR       | コーヒーパッケージ画像のテキスト読み取り |
+| libvips / ruby-vips | 画像前処理（OCR 精度向上）               |
 
 ### インフラ・デプロイ
 
