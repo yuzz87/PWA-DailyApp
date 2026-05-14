@@ -1,4 +1,4 @@
-<img width="1920" height="871" alt="voicememo" src="https://github.com/user-attachments/assets/6483077c-7351-427b-9ffa-91e8f4031782" /># Daily Life App
+# Daily Life App
 
 日常生活の管理をまとめて行える PWA（Progressive Web App）です。
 スマートフォンのホーム画面に追加することで、ネイティブアプリに近い感覚で利用できるように心がけました。
